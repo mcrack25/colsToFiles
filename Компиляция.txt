@@ -1,0 +1,3 @@
+pyinstaller --onefile --icon=icon.ico main.py
+
+Программа называется checkSnils
